@@ -3,7 +3,7 @@ module github.com/Soreing/trace
 go 1.19
 
 require (
-	github.com/Soreing/grand v0.0.0-20231107211714-5514c7eda3cd
+	github.com/Soreing/grand v0.1.0
 	github.com/Soreing/motel v0.1.2
 	go.opentelemetry.io/otel v1.19.0
 	go.opentelemetry.io/otel/sdk v1.19.0

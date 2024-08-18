@@ -1,5 +1,7 @@
 github.com/Soreing/grand v0.0.0-20231107211714-5514c7eda3cd h1:2aC5TwobGH03hyktKi8kduuZBeE01Hh1/x71HUISQZE=
 github.com/Soreing/grand v0.0.0-20231107211714-5514c7eda3cd/go.mod h1:zKYlIV979JGRAfErteom1AU9lIQ8opQp9IJ71LoDPmQ=
+github.com/Soreing/grand v0.1.0 h1:wkCuMZwaSzGC04MxWp0iiBQ6kR1Z8j7QMy4ruxP0LWI=
+github.com/Soreing/grand v0.1.0/go.mod h1:ZW8Ik8tZzzigs3gV1Ubu1D8DeoGN+UjEFZqJN5ob7II=
 github.com/Soreing/motel v0.1.2 h1:qCncMKLCGZZSq6f6sX2M39dswgeFNq8Z9a9wP8ZZJDE=
 github.com/Soreing/motel v0.1.2/go.mod h1:LABonxAadL8Nct62Llltar2jO0pug5/EomPqslXwpoE=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

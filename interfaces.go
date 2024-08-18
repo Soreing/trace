@@ -1,5 +1,5 @@
 package trace
 
 type Random interface {
-	Fill([]byte)
+	Fill([]byte) []byte
 }
